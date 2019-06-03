@@ -17,3 +17,8 @@ npm run serve
 ```
 npm run build
 ```
+
+### Features
+
+- Markdown support
+- Save notes on localstorage
