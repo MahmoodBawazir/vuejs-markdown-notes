@@ -3,19 +3,19 @@
 ### Installation
 
 ```
-npm install
+yarn install
 ```
 
 ### Start Dev Server
 
 ```
-npm run serve
+yarn serve
 ```
 
 ### Build Prod Version
 
 ```
-npm run build
+yarn build
 ```
 
 ### Features
